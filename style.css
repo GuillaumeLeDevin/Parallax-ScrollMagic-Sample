@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+section {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
