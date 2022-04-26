@@ -13,3 +13,23 @@ section {
     justify-content: center;
     align-items: center;
 }
+
+.bg1 {
+    background: url("https://images.unsplash.com/flagged/photo-1554443883-83db889b4007?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80");
+    background-size: cover;  
+}
+
+.bg2 {
+    background: url("https://images.unsplash.com/photo-1553289038-6638b1a1802a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80");
+    background-size: cover;  
+}
+
+.bg3 {
+    background: url("https://images.unsplash.com/photo-1553367989-1f8a5d29ee08?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-size: cover;  
+}
+
+.bg4 {
+    background: url("https://images.unsplash.com/photo-1552236867-1caaa93299e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=1351&q=80");
+    background-size: cover;  
+}
